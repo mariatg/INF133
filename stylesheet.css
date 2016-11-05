@@ -1,0 +1,41 @@
+div {
+    border-radius: 5px;
+    height: 25%;
+    width: 100%;
+    background-color: #d9d9d9;
+}
+
+#header {
+    #position: fixed;
+    z-index: 1;
+    height: 25%;
+    width: 100%;
+}
+
+.top {
+    position: absolute;
+    height: 25%;
+    width: 100%;
+    background-color: #c2d9f0
+}
+
+.middle {
+    position: absolute;
+    height: 25%;
+    width: 100%;
+    background-color: #e8e8e8
+}
+
+.bottom {
+    position: absolute;
+    height: 25%;
+    width: 100%
+    background-color:  #e7d0bd
+}
+
+#footer {
+    clear: all;
+    position: absolute;
+    height: 15%;
+    width: 100%;
+}
